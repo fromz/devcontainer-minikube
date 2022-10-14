@@ -1,0 +1,7 @@
+{
+    "id": "minikube",
+    "version": "1.0.0",
+    "name": "minikube",
+    "description": "Installs minikube",
+    "documentationURL": "https://github.com/fromz/devcontainer-minikube/blob/master/README.md"
+}
